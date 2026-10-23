@@ -79,13 +79,6 @@ Gain hands-on experience in Python development
 ✔ Completed as part of CodeAlpha Internship Program
 ```
 
-## 👩‍💻 Author
-```
-Amulya Balaji
-Internship: CodeAlpha
-Domain: Artificial Intelligence
-```
-
 ## 🙏 Acknowledgements
 ```
 Special thanks to CodeAlpha for providing this internship opportunity and learning experience.
